@@ -30,7 +30,7 @@ Joystick axis use the `NetworkJoystick.SetAxisValue` command with two params :
 Example : 
 ```{
             "Command": "NetworkJoystick.SetAxisValue",
-            "Parameters": [ { "Name": 0, "Value": (x) } ]
+            "Parameters": [ { "Name": 0, "Value": -340 } ]
         }```
       
 
